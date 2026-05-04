@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+
+# Reference documents (not for repo yet)
+docs/target-state/
+docs/*.xlsx
+docs/*.pdf
+
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.*
+
+# Build
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
